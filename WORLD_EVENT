@@ -1,0 +1,19 @@
+Visualization: triggered by a click on any part of the world. Opens a "portal"
+displaying a section of galaxy.
+
+Effect: miners passing through portals become blue Galaxy Miners 
+(MinerGalaxy.class). Although the galaxy is accessible to miners through the 
+portals, intergalactic travel is not the quickest way to reach a destination, 
+ as miners who pass through the galaxy incur the cost of transportation 
+via portal (represented in the A* algorithm by an addition to the g_score of 
+a portal node). Such travel also changes a man (miner). Having become a Galaxy 
+Miner, the traveler is no longer motivated to obtain minerals for blacksmiths. 
+Instead, he seeks the galaxy tiles that exist under certain ores (mines ores to 
+determine if galaxy tiles appear). After finding a tile, the Galaxy Miner 
+disappears into the portal (having completed his goal).
+
+New Entity: wyverns (Wyvern.class) may appear in opened portals. If Galaxy 
+Miners exist in the world, wyverns follow in hot pursuit and, if possible, 
+destroy them. However, wyverns themselves can be destroyed if they leave a 
+section of galaxy and attempt to re-enter (this would occur if the shortest 
+path to a Galaxy Miner involved passing through a portal, for example).

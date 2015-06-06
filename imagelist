@@ -1,0 +1,65 @@
+blacksmith images/blacksmith.bmp
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+grass images/grass.bmp
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+obstacle images/obstacle.bmp
+//ore images/ore.bmp 201 26 26 0
+ore images/ore2.bmp
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+rocks images/rock.bmp
+vein images/vein.bmp
+
+galaxy0-2 images/galaxy1.jpg
+galaxy-1-1 images/galaxy2.jpg
+galaxy0-1 images/galaxy3.jpg
+galaxy1-1 images/galaxy4.jpg
+galaxy-20 images/galaxy5.jpg
+galaxy-10 images/galaxy6.jpg
+galaxy00 images/galaxy7.jpg
+galaxy10 images/galaxy8.jpg
+galaxy20 images/galaxy9.jpg
+galaxy-11 images/galaxy10.jpg
+galaxy01 images/galaxy11.jpg
+galaxy11 images/galaxy12.jpg
+galaxy02 images/galaxy13.jpg
+galaxy-1-2 images/galaxy14.jpg
+galaxy12 images/galaxy15.jpg
+galaxy-21 images/galaxy16.jpg
+galaxy2-1 images/galaxy1.jpg
+
+minergalaxy images/minerv2_1.bmp 252 252 252 0
+minergalaxy images/minerv2_2.bmp 252 252 252 0
+minergalaxy images/minerv2_3.bmp 252 252 252 0
+minergalaxy images/minerv2_4.bmp 252 252 252 0
+minergalaxy images/minerv2_5.bmp 252 252 252 0
+
+wyvern images/wyvern1.bmp 255 255 255 0
+wyvern images/wyvern2.bmp 255 255 255 0
+wyvern images/wyvern3.bmp 255 255 255 0
+wyvern images/wyvern4.bmp 255 255 255 0
+wyvern images/wyvern5.bmp 255 255 255 0
+wyvern images/wyvern6.bmp 255 255 255 0
+wyvern images/wyvern7.bmp 255 255 255 0
+wyvern images/wyvern8.bmp 255 255 255 0
+
+background_default images/none.bmp
